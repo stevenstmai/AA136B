@@ -3,5 +3,6 @@ Generate synthetic images with OpenGL and then processing them with OpenCV (Pyth
 
 
 Setup guide
-Download OpenCV 
-Download ModernGL (library of Opengl in python)
+Download OpenCV: pip install opencv-python
+Download ModernGL: pip install moderngl
+Download ModernGL extra: pip install moderngl-window
